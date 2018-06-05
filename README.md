@@ -5,7 +5,10 @@ using node to build rest api
 
 ### Easy way (Docker)
 
-
+- Download the repository
+- Copy .env.example to .env and make necessary changes
+- Edit docker-compose.yml if there was any change made regarding the ports
+- Run `docker-compose up`
 
 ### Hard way
 
