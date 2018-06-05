@@ -1,7 +1,7 @@
 # node-practice
-using node to build rest api
+Using NodeJS and JWT to build a REST api
 
-## Intallation
+## Installation
 
 ### Easy way (Docker)
 
