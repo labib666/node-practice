@@ -3,6 +3,7 @@ services:
   app:
     container_name: app
     build: .
+    restart: on-failure
     command: npm start
     ports: 
       - "8080:8080"
